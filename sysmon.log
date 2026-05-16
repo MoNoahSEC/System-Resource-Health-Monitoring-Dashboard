@@ -1,0 +1,3901 @@
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:46:43 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 9 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       6.9Gi        15Gi       862Mi        10Gi        24Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (77% available)
+OK: CPU usage is normal (2.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:46:49 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 9 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.7%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       6.9Gi        15Gi       860Mi        10Gi        24Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (77% available)
+OK: CPU usage is normal (1.7%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:46:54 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 9 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 0.6%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       6.9Gi        15Gi       860Mi        10Gi        24Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (77% available)
+OK: CPU usage is normal (0.6%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:46:59 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 10 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.0%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       6.9Gi        15Gi       860Mi        10Gi        24Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (77% available)
+OK: CPU usage is normal (2.0%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:47:04 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 10 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 4.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       6.9Gi        15Gi       860Mi        10Gi        24Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (77% available)
+OK: CPU usage is normal (4.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:47:10 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 10 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 3.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       6.9Gi        15Gi       860Mi        10Gi        24Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (77% available)
+OK: CPU usage is normal (3.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:47:15 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 10 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 8.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       6.9Gi        15Gi       860Mi        10Gi        24Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (77% available)
+OK: CPU usage is normal (8.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:47:20 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 10 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.3%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       6.9Gi        15Gi       879Mi        10Gi        24Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (77% available)
+OK: CPU usage is normal (2.3%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:47:26 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 10 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       6.9Gi        15Gi       869Mi        10Gi        24Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (77% available)
+OK: CPU usage is normal (2.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:47:31 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 10 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.1%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       6.9Gi        15Gi       868Mi        10Gi        24Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (77% available)
+OK: CPU usage is normal (1.1%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:47:36 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 10 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 6.7%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       6.9Gi        15Gi       869Mi        10Gi        24Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (77% available)
+OK: CPU usage is normal (6.7%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:47:42 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 10 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 13.1%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       6.9Gi        15Gi       886Mi        10Gi        24Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (77% available)
+OK: CPU usage is normal (13.1%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:47:47 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 10 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 7.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.0Gi        15Gi       879Mi        10Gi        24Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (77% available)
+OK: CPU usage is normal (7.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:47:53 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 10 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 3.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.0Gi        15Gi       874Mi        10Gi        24Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (77% available)
+OK: CPU usage is normal (3.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:47:58 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 10 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.1%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.0Gi        15Gi       877Mi        10Gi        24Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (77% available)
+OK: CPU usage is normal (2.1%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:48:03 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 11 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.7%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.0Gi        15Gi       880Mi        10Gi        24Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (77% available)
+OK: CPU usage is normal (1.7%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:48:09 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 11 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 11.6%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.0Gi        15Gi       897Mi        10Gi        24Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (77% available)
+OK: CPU usage is normal (11.6%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:48:14 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 11 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 15.6%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.3Gi        14Gi       1.2Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (15.6%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:48:19 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 11 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 14.2%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.3Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (14.2%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:48:24 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 11 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 14.8%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (14.8%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:48:30 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 11 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 4.2%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (4.2%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:48:35 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 11 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 6.1%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (6.1%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:48:40 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 11 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.7%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (1.7%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:48:46 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 11 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.7%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (1.7%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:48:51 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 11 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.3%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (2.3%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:48:56 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 11 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 5.3%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (5.3%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:49:02 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 12 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (1.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:49:07 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 12 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 5.1%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (5.1%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:49:12 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 12 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 4.1%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (4.1%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:49:18 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 12 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 11.2%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (11.2%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:49:23 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 12 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 3.1%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (3.1%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:49:28 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 12 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (2.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:49:34 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 12 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 4.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (4.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:49:39 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 12 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.3Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (2.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:49:44 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 12 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 3.0%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (3.0%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:49:50 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 12 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.1%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (2.1%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:49:55 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 12 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (1.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:50:01 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 13 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.7%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (1.7%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:50:06 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 13 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.0%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (2.0%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:50:11 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 13 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 7.1%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.7Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (75% available)
+OK: CPU usage is normal (7.1%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:50:16 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 13 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 3.0%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.8Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (75% available)
+OK: CPU usage is normal (3.0%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:50:22 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 13 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.8Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (75% available)
+OK: CPU usage is normal (1.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:50:27 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 13 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.6%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.7Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (75% available)
+OK: CPU usage is normal (2.6%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:50:32 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 13 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.7Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (75% available)
+OK: CPU usage is normal (2.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:50:38 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 13 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 6.2%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.7Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (75% available)
+OK: CPU usage is normal (6.2%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:50:43 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 13 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.2%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.7Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (75% available)
+OK: CPU usage is normal (1.2%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:50:48 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 13 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.0%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.7Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (75% available)
+OK: CPU usage is normal (2.0%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:50:54 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 13 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 10.3%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.7Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (75% available)
+OK: CPU usage is normal (10.3%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:50:59 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 14 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.7Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (75% available)
+OK: CPU usage is normal (2.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:51:04 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 14 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 9.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.7Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (75% available)
+OK: CPU usage is normal (9.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:51:10 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 14 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.7Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (75% available)
+OK: CPU usage is normal (2.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:51:15 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 14 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 3.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.5Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (3.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:51:20 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 14 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 10.1%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.5Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (75% available)
+OK: CPU usage is normal (10.1%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:51:26 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 14 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.1%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.5Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (75% available)
+OK: CPU usage is normal (2.1%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:51:31 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 14 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 5.1%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.5Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (5.1%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:51:36 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 14 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.7%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (1.7%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:51:42 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 14 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.9%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (2.9%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:51:47 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 14 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 4.0%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (4.0%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:51:52 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 14 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 3.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (3.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:51:58 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 14 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (1.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:52:03 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 15 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.6%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.5Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (1.6%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:52:08 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 15 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.0%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.5Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (2.0%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:52:14 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 15 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.2%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.5Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (1.2%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:52:19 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 15 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.0%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (2.0%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:52:24 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 15 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.2%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.5Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (1.2%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:52:30 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 15 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (1.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:52:35 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 15 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 4.0%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (4.0%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:52:40 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 15 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.0%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (2.0%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:52:46 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 15 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (1.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:52:51 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 15 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.7%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (1.7%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:52:56 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 15 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 3.6%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (3.6%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:53:02 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 16 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.7%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (1.7%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:53:07 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 16 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 5.7%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (5.7%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:53:12 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 16 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.7%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (1.7%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:53:18 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 16 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 3.1%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (3.1%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:53:23 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 16 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 3.4%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (3.4%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:53:28 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 16 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (1.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:53:33 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 16 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.2%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (1.2%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:53:39 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 16 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 100.0%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.3Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+CRITICAL: CPU usage very high! (100.0%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:53:44 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 16 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 3.6%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.3Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (3.6%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:53:49 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 16 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.3%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.3Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (2.3%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:53:55 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 16 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.1%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.3Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (2.1%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:54:00 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 17 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 9.3%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.3Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (9.3%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:54:05 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 17 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 5.6%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.3Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (5.6%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:54:11 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 17 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 9.0%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (9.0%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:54:16 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 17 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 1.7%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (1.7%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:54:21 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 17 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.5%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.3Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (2.5%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:54:27 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 17 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 13.6%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.4Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (13.6%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:54:32 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 17 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 5.2%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.3Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (5.2%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+======================================================
+   System Resource & Health Monitoring Dashboard      
+   لوحة معلومات مراقبة موارد النظام وصحته           
+======================================================
+Time (الوقت): Thu May 14 03:54:37 AM EEST 2026
+
+--- Uptime (مدة التشغيل) ---
+up 2 days, 2 hours, 17 minutes
+
+--- CPU Usage (استهلاك المعالج) ---
+CPU Usage: 2.3%
+
+--- RAM Usage (استهلاك الذاكرة) ---
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       7.3Gi        14Gi       1.1Gi        10Gi        23Gi
+Swap:             0B          0B          0B
+
+--- Disk Usage (استهلاك القرص) ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  211G   33G  166G  17% /
+
+--- Network Info (معلومات الشبكة) ---
+IP: 192.168.8.101/24
+
+--- Checking Critical Services (فحص الخدمات الحرجة) ---
+[X] sshd: NOT RUNNING
+[X] nginx: NOT RUNNING
+[X] mysql: NOT RUNNING
+[✓] cron: RUNNING
+
+--- System Health Warnings (تحذيرات صحة النظام) ---
+OK: Disk usage is safe (17%)
+OK: RAM is sufficient (76% available)
+OK: CPU usage is normal (2.3%)
+
+======================================================
+ Refreshing every 5 seconds...
+ Log File: sysmon.log | History: resource_history.csv
+======================================================
+------------------------------------------------------
+[2026-05-14 03:57:51] CPU: 13.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:57:54] CPU: 3.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:57:58] CPU: 4.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:58:01] CPU: 3.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:58:04] CPU: 6.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:58:08] CPU: 2.8% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:58:11] CPU: 2.8% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:58:14] CPU: 5.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:58:18] CPU: 2.9% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:58:21] CPU: 2.3% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:58:24] CPU: 6.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:58:28] CPU: 3.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:58:31] CPU: 2.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:58:34] CPU: 13.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:58:38] CPU: 3.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:58:41] CPU: 3.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:58:44] CPU: 11.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:58:48] CPU: 4.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:58:51] CPU: 2.9% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:58:54] CPU: 4.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:58:58] CPU: 3.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:59:01] CPU: 4.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:59:04] CPU: 4.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:59:08] CPU: 1.8% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:59:11] CPU: 27.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:59:14] CPU: 4.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:59:18] CPU: 27.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:59:21] CPU: 11.4% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:59:24] CPU: 4.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:59:28] CPU: 4.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:59:31] CPU: 7.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:59:35] CPU: 9.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:59:38] CPU: 9.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:59:41] CPU: 11.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:59:45] CPU: 9.9% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:59:48] CPU: 8.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:59:51] CPU: 9.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:59:55] CPU: 8.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 03:59:58] CPU: 8.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:00:01] CPU: 5.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:00:05] CPU: 9.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:00:08] CPU: 7.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:00:11] CPU: 7.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:00:15] CPU: 8.9% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:00:18] CPU: 11.3% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:00:21] CPU: 10.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:00:25] CPU: 10.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:00:28] CPU: 9.3% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:00:31] CPU: 8.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:00:34] CPU: 6.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:00:38] CPU: 9.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:00:41] CPU: 9.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:00:44] CPU: 8.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:00:48] CPU: 8.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:00:51] CPU: 8.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:00:54] CPU: 10.4% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:00:58] CPU: 10.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:01:01] CPU: 8.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:01:04] CPU: 7.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:01:08] CPU: 15.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:01:11] CPU: 10.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:01:14] CPU: 17.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:01:18] CPU: 8.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:01:21] CPU: 7.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:01:42] CPU: 8.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:01:45] CPU: 8.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:01:49] CPU: 5.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:01:52] CPU: 3.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:01:55] CPU: 7.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:01:58] CPU: 10.8% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:02:02] CPU: 8.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:02:05] CPU: 4.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:02:08] CPU: 11.8% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:02:12] CPU: 7.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:02:15] CPU: 8.3% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:02:18] CPU: 6.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:02:21] CPU: 9.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:02:25] CPU: 7.4% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:02:28] CPU: 13.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:02:31] CPU: 9.4% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:02:35] CPU: 9.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:02:38] CPU: 6.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:02:41] CPU: 7.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:02:44] CPU: 16.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:02:48] CPU: 5.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:02:51] CPU: 6.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:02:54] CPU: 6.9% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:02:57] CPU: 8.8% | RAM: 77% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:03:01] CPU: 8.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:03:04] CPU: 9.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:03:07] CPU: 14.3% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:03:11] CPU: 13.3% | RAM: 77% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:03:14] CPU: 9.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:03:17] CPU: 9.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:03:20] CPU: 10.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:03:24] CPU: 11.0% | RAM: 77% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:03:27] CPU: 7.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:03:30] CPU: 8.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:03:34] CPU: 9.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:03:37] CPU: 4.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:03:40] CPU: 5.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:03:43] CPU: 29.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:03:47] CPU: 6.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:03:50] CPU: 8.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:03:53] CPU: 34.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:03:57] CPU: 4.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:04:00] CPU: 7.4% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:04:03] CPU: 25.8% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:04:07] CPU: 8.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:04:10] CPU: 5.8% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:04:13] CPU: 30.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:04:16] CPU: 8.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:04:20] CPU: 5.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:04:23] CPU: 28.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:04:26] CPU: 4.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:04:30] CPU: 4.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:04:33] CPU: 30.8% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:04:36] CPU: 5.8% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:04:39] CPU: 3.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:04:43] CPU: 28.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:04:46] CPU: 4.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:04:49] CPU: 5.8% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:04:53] CPU: 32.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:04:56] CPU: 5.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:04:59] CPU: 5.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:05:02] CPU: 34.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:05:06] CPU: 7.4% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:05:09] CPU: 9.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:05:12] CPU: 35.3% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:05:16] CPU: 7.3% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:05:19] CPU: 10.8% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:05:22] CPU: 6.3% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:05:25] CPU: 16.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:05:29] CPU: 11.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:05:32] CPU: 10.8% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:05:35] CPU: 7.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:05:39] CPU: 11.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:05:42] CPU: 7.9% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:05:45] CPU: 7.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:05:48] CPU: 5.8% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:05:52] CPU: 4.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:05:55] CPU: 11.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:05:58] CPU: 7.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:06:02] CPU: 10.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:06:05] CPU: 10.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:06:08] CPU: 9.9% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:06:11] CPU: 12.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:06:15] CPU: 8.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:06:18] CPU: 9.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:06:21] CPU: 9.4% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:06:25] CPU: 8.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:06:28] CPU: 21.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:06:31] CPU: 52.3% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:06:35] CPU: 11.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:06:38] CPU: 7.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:06:41] CPU: 9.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:06:44] CPU: 10.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:06:48] CPU: 13.9% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:06:51] CPU: 15.8% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:06:54] CPU: 11.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:06:58] CPU: 11.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:07:01] CPU: 10.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:07:04] CPU: 6.9% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:07:07] CPU: 8.8% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:07:11] CPU: 14.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:07:14] CPU: 8.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:07:17] CPU: 11.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:07:21] CPU: 8.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:07:24] CPU: 10.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:07:27] CPU: 14.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:07:31] CPU: 12.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:07:34] CPU: 4.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:07:37] CPU: 18.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:07:40] CPU: 12.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:07:44] CPU: 8.8% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:07:47] CPU: 10.9% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:07:50] CPU: 15.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:07:53] CPU: 11.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:07:57] CPU: 10.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:08:00] CPU: 19.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:08:03] CPU: 13.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:08:07] CPU: 18.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:08:10] CPU: 16.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:08:13] CPU: 14.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:08:17] CPU: 14.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:08:20] CPU: 12.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:08:23] CPU: 14.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:08:26] CPU: 10.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:08:30] CPU: 8.3% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:08:33] CPU: 7.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:08:36] CPU: 7.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:08:40] CPU: 9.8% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:08:43] CPU: 12.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:08:46] CPU: 7.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:08:49] CPU: 9.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:08:53] CPU: 7.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:08:56] CPU: 15.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:08:59] CPU: 15.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:09:02] CPU: 57.2% | RAM: 75% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:09:06] CPU: 13.9% | RAM: 75% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:09:09] CPU: 10.7% | RAM: 75% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:09:12] CPU: 8.1% | RAM: 75% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:09:16] CPU: 8.3% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:09:19] CPU: 35.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:09:22] CPU: 3.4% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:09:25] CPU: 5.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:09:29] CPU: 7.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:09:32] CPU: 7.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:09:35] CPU: 32.3% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:09:38] CPU: 15.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:09:42] CPU: 10.3% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:09:45] CPU: 7.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:09:48] CPU: 10.3% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:09:52] CPU: 7.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:09:55] CPU: 10.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:09:58] CPU: 6.4% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:10:01] CPU: 9.3% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:10:05] CPU: 7.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:10:08] CPU: 7.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:10:11] CPU: 14.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:10:15] CPU: 7.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:10:18] CPU: 11.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:10:21] CPU: 8.8% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:10:24] CPU: 5.9% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:10:28] CPU: 9.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:10:31] CPU: 4.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:10:34] CPU: 8.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:10:38] CPU: 12.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:10:41] CPU: 11.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:10:44] CPU: 17.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:10:47] CPU: 7.9% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:10:51] CPU: 5.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:10:54] CPU: 8.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:10:57] CPU: 9.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:11:01] CPU: 5.8% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:11:04] CPU: 12.4% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:11:07] CPU: 8.4% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:11:10] CPU: 4.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:11:14] CPU: 7.6% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:11:17] CPU: 21.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:11:20] CPU: 12.4% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:11:24] CPU: 12.3% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:11:27] CPU: 16.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:11:30] CPU: 8.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:11:33] CPU: 17.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:11:37] CPU: 9.2% | RAM: 75% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:11:40] CPU: 11.7% | RAM: 75% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:11:43] CPU: 9.2% | RAM: 75% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:11:47] CPU: 11.1% | RAM: 75% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:11:50] CPU: 8.8% | RAM: 75% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:11:53] CPU: 13.2% | RAM: 75% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:11:56] CPU: 6.2% | RAM: 75% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:12:00] CPU: 9.4% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:12:03] CPU: 10.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:12:06] CPU: 9.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:12:10] CPU: 12.9% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:12:13] CPU: 31.7% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:12:16] CPU: 10.9% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:12:19] CPU: 7.8% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:12:23] CPU: 11.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:12:26] CPU: 12.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:12:29] CPU: 8.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:12:33] CPU: 10.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:12:36] CPU: 9.4% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:12:39] CPU: 10.2% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:12:43] CPU: 8.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:12:46] CPU: 10.5% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:12:49] CPU: 12.9% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:12:52] CPU: 9.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:12:56] CPU: 9.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:12:59] CPU: 8.8% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:13:02] CPU: 6.4% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:13:06] CPU: 7.0% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:13:09] CPU: 15.4% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:13:12] CPU: 11.1% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:13:15] CPU: 7.4% | RAM: 76% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:13:19] CPU: 2.0% | RAM: 78% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:13:22] CPU: 4.0% | RAM: 78% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:13:25] CPU: 2.0% | RAM: 78% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:13:29] CPU: 4.0% | RAM: 78% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:13:32] CPU: 1.7% | RAM: 78% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:13:35] CPU: 2.8% | RAM: 78% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:13:39] CPU: 0.6% | RAM: 78% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:13:42] CPU: 2.0% | RAM: 78% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:13:45] CPU: 4.1% | RAM: 78% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:13:49] CPU: 0.6% | RAM: 78% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:13:52] CPU: 1.1% | RAM: 78% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:13:55] CPU: 1.7% | RAM: 78% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:13:58] CPU: 2.0% | RAM: 78% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:14:02] CPU: 4.6% | RAM: 78% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:14:05] CPU: 1.5% | RAM: 78% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:14:08] CPU: 1.7% | RAM: 78% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:14:12] CPU: 5.8% | RAM: 78% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 04:14:15] CPU: 2.8% | RAM: 78% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 09:46:52] CPU: 0.5% | RAM: 95% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 09:46:55] CPU: 1.6% | RAM: 95% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 09:46:58] CPU: 2.9% | RAM: 95% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 09:47:02] CPU: 1.1% | RAM: 95% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 09:47:05] CPU: 0.5% | RAM: 95% | DISK: 17% | DOWN: sshd nginx mysql 
+[2026-05-14 09:47:08] CPU: 100.0% | RAM: 95% | DISK: 17% | DOWN: sshd nginx mysql  | ALERTS: [CPU CRIT] 
+[2026-05-14 09:47:11] CPU: 0.6% | RAM: 95% | DISK: 17% | DOWN: sshd nginx mysql 
